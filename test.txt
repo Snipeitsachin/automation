@@ -1,0 +1,35 @@
+# comment line
+START  DSI
+  roll no     first name     last name   percentage   physics   chem    maths  biology   stat
+  1DS12ECOO1   AMAR            PS         75           74        76     70      89       -
+  1DS12EC002   ANANT           -          65           56        89     66      -        78          
+  1DS12EC003   AJAY            BERD       70           70        67     89      67       - 
+  1DS12EC004   FRED            -          56           43        43     35      -        45 
+  1DS12EC005   MADY            NTR        60           56        67     89      45       -  
+END  DSI 
+START PES 
+  roll no    first name   last name   percentage   physics   chem   maths   biology   stat
+  1PS12ECOO1  BALM            -         78          75        76     70        89       -     
+  1PS12EC002  BETTY           NS        68          76        53     65        -        88   
+  1PS12EC003  WELMA           PD        67          70        67     64        -        78 
+  1PS12EC004  MOZARTR         -         62          57        54     43        -        90
+  1PS12EC001  BALM            -         60          56        78     71        76       - 
+END PES
+
+START MSI 
+   roll no    first name   last name   percentage   physics   chem   maths   biology   stat 
+  1MS12ECOO1  RAM            SB         67           56        89     54      50         -
+  1MS12EC002  KRISHNA         -         80           89        79     79      -          71          
+  1MS12EC003  ARJUN          TC         84           82        75     78      -          58 
+  1MS12EC004  MAHESH          -         60           47        54     57      67         - 
+  1MS12EC005  SUNIL          KL         50           45        64     67      35         -
+END MSI
+
+START UVCE 
+  roll no     first name   last name   percentage   physics   chem   maths   biology   stat 
+  1UV12ECOO1   KRISHNA      XY          77           67        56     90      50        -
+  1UV12EC002   RAMESH        -          65           45        52     62      59        - 
+  1UV12EC003   SHASHI       AB          70           87        69     66      70        -
+  1UV12EC004   ARUN          -          39           35        45     46      -         36
+  1UV12EC005   SACHIN       PATIL       56           45        49     60      -         50
+END UVCE
